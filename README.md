@@ -1,2 +1,5 @@
-# Projeto-Blog
- Meu primeiro projeto para a web.
+# Olá, Mundo!
+ Meu primeiro repositório do curso de Git e GitHub!
+
+Iniciante no mundo da programação. :)
+
