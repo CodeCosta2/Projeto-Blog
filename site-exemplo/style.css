@@ -1,3 +1,7 @@
 body{
-    background-color: red;
+    background-color: salmon;
+}
+
+.btn1 {
+    size: 50px;
 }
